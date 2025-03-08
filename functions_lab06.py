@@ -1,10 +1,6 @@
 # Import the random library to use for the dice later
 import random
 
-# Will the line below print when you import function.py into main.py?
-# print("Inside function.py")
-
-
 # Lab 4: Question 4
 def use_loot(belt, health_points):
     good_loot_options = ["Health Potion", "Leather Boots"]
